@@ -1,3 +1,9 @@
+## 👨‍💻 Author
+
+Nama : I Made Wisnu Pradnya Yoga
+NIM : 2301020010
+Kelas : IF Pagi 1
+
 ## 🌐 Landing Page Positivus
 
 Website ini dikembangkan menggunakan [Next.js 15](https://nextjs.org) sebagai landing page untuk **Positivus**, sebuah perusahaan konsultan media sosial yang membantu brand tumbuh melalui strategi digital yang efektif.
