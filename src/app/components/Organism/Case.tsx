@@ -1,4 +1,4 @@
-import SectionHeading from "./Attom/Heading";
+import SectionHeading from "../Attom/Heading";
 
 export default function Case() {
   return (

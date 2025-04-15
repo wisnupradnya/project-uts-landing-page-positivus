@@ -1,4 +1,4 @@
-import ServiceCard from "./ServiceCard";
+import ServiceCard from "../Molecules/ServiceCard";
 
 export default function Table() {
   return (

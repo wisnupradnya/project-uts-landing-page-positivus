@@ -1,4 +1,4 @@
-import SectionHeading from "./Attom/Heading";
+import SectionHeading from "../Attom/Heading";
 export default function Home() {
   return (
     <div className="bg-white flex items-center px-20 py-10 gap-10 ">

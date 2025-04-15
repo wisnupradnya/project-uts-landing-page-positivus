@@ -1,5 +1,5 @@
 // src/app/components/Accor.tsx
-import AccordionItem from "./AccordionItem";
+import AccordionItem from "../Molecules/AccordionItem";
 
 export default function Accor() {
   return (
